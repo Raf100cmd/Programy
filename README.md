@@ -38,8 +38,8 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/15asdMzThhKW-r85nDG8CdeOJR4Ik5Bxa/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1ipx5_Nn8fIMB4JE3HbmohELvns7Z1G4K/view?usp=sharing)
   * **Ćwiczenie 13** _ - Program tworzący tablicę dla 10 elementów typu integer wypełnionych losowymi liczbami z zakresu od [-10..10]_
-    * [Sposób rozwiązania]()
-    * [Rezultat]()
+    * [Sposób rozwiązania](https://drive.google.com/file/d/1sfCZh5fmSdUVSQx4FG2oYrVpgCfWJvbL/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1Whu7Y7R0OYByU1eW7fWpDtDuURat-utb/view?usp=sharing)
   * **Ćwiczenie 14** _ - Program drukujący tabliczkę mnożenia z zakresu podanego przez użytkownika_
     * [Sposób rozwiązania]()
     * [Rezultat]()
