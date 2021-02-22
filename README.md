@@ -20,8 +20,8 @@
     * [Sposób rozwiąznia](https://drive.google.com/file/d/1wUP_97Dm6hXZF4_Ct37JriR5yLkf48cN/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1LFuV4F2wkqDInVsUrBLGSxwvw8XWo35v/view?usp=sharing)
   * **Ćwiczenie 7** _ - Program pobierający imię od użytkownika_
-    * [Sposób rozwiąznia]()
-    * [Rezultat]()
+    * [Sposób rozwiąznia](https://drive.google.com/file/d/1Mcym2IHpCLUPOhyloD2BPVk9wZctQpM-/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1ES2m3ssqnEmvDxEx89qzvVlp_stRZH0B/view?usp=sharing)
   * **Ćwiczenie 8** _ - Program dokonujący konwersji temperatury podanej przez użytkownika_
     * [Sposób rozwiąznia]()
     * [Rezultat]()
