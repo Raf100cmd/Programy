@@ -47,8 +47,8 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/1PqjBOqOccufokx5TAzV99j79n1Q8s0HP/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1cZQWxx8xjN2qZ5grK3q4PyNHksY4-N-5/view?usp=sharing)
   * **Ćwiczenie 16** _ - Program wyliczający ratę miesięczną za zakupiony towar_
-    * [Sposób rozwiązania]()
-    * [Rezultat]()
+    * [Sposób rozwiązania](https://drive.google.com/file/d/1bqM5FiOda26quT3YtvlAgJ__BYlv1DW5/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/17cpV5hX5PDiGL9kM3kkGSD1xNRfRKQvz/view?usp=sharing)
   * **Ćwiczenie 17** _ - Program pobierający od użytkownika liczbę całkowitą i sprawdzający czy liczba jest podzielna przez 3, 5 lub 3 i 5_
     * [Sposób rozwiązania]()
     * [Rezultat]() 
