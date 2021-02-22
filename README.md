@@ -29,8 +29,8 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/1CaoX-a2_nbS7hefwsb8jxyxBwA1bLA4o/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1kxk7X8UN1R79Zz8Pb1_Okdoj0-p8Oz0I/view?usp=sharing)
   * **Ćwiczenie 10** _ - Program wyświetlający na ekranie tekst "To jest komunit w pętli X", gdzie liczbę wyświetlanego komunikatu podaje użytkownik_
-    * [Sposób rozwiązania]()
-    * [Rezultat]()
+    * [Sposób rozwiązania](https://drive.google.com/file/d/1NHhTG74nUcU_7DWarjogBcnwtuZLVxm3/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1frh9K1xijQZ4IIWopFzk6YsaMWLVYafz/view?usp=sharing)
   * **Ćwiczenie 11** _ - Program pobierający hasło od użytkownika II_ 
     * [Sposób rozwiązania]()
     * [Rezultat]()
