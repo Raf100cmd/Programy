@@ -71,8 +71,10 @@
     * [Sposób rozwiąznia](https://drive.google.com/file/d/1Ac3GNRG8RAlR4Cd_RBUhfWZs0ifgkcJ7/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1V5DdNCjl1dzVLNcXVfkuHUJ_n_ZDWRxK/view?usp=sharing)
   * **Ćwiczenie 24** _ - Program wyświetlający datę na podstawie liczb wprowadzonych przez użytkownika_
-    * [Sposób rozwiązania]()
-    * [Rezultat]()
+    * Sposób rozwiązania - przy pomocy seterów 
+      * [Tworzenie seterów](https://drive.google.com/file/d/1BteHsaGsah_s0kf7dWOEUpgg06ECkm5O/view?usp=sharing)
+      * [Wyświetlanie daty](https://drive.google.com/file/d/1dwOiHUYvX3hnQP06xRLRISSCoFF-G3nY/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1QdXa2RJadjtx7LqE1EDjeURbxI11lNXz/view?usp=sharing)
   * **Ćwiczenie 25** _ - Program umożliwiający zmianę rocznej stopy oprocentowania_
     * [Sposób rozwiązania]()
     * [Rezultat]()
