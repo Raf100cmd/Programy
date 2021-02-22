@@ -56,8 +56,8 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/1RimJaPW0B4z0Vm3D3_BmdBHtSefi9Ygj/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1FpYrQKKUYZJzpMXYV_i7wevOFOq0Otp3/view?usp=sharing)
   * **Ćwiczenie 19** _ - Program wyświetlający choinkę_
-    * [Sposób rozwiązania]()
-    * [Rezultat]()
+    * [Sposób rozwiązania](https://drive.google.com/file/d/1l3jurfwPrSO7tS31MXE4shqsZpYvt4y9/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1FnMAa4Dv4Q8su1K69DGqdSajY2EbaZVm/view?usp=sharing)
   * **Ćwiczenie 20** _ - Program przyjmujący od użytkownika dwie liczby i dokonujący operacji matematycznych_
     * [Sposób rozwiązania]()
     * [Rezultat]()
