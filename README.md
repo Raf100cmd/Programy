@@ -32,8 +32,8 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/1NHhTG74nUcU_7DWarjogBcnwtuZLVxm3/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1frh9K1xijQZ4IIWopFzk6YsaMWLVYafz/view?usp=sharing)
   * **Ćwiczenie 11** _ - Program pobierający hasło od użytkownika II_ 
-    * [Sposób rozwiązania]()
-    * [Rezultat]()
+    * [Sposób rozwiązania](https://drive.google.com/file/d/1KP_qY1Yya1bqFl8ebUB2rVqhbzFu6Ps_/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1R6VdVE3H7CrE32cgFsf2Q4lZM3ZqVLg4/view?usp=sharing)
   * **Ćwiczenie 12** _ - Program pobierający od użytkownika dodatnią liczbę całkowitą i wypisujący wszystkie liczby nieparzyste nie większe od tej liczby_
     * [Sposób rozwiązania]()
     * [Rezultat]()
