@@ -44,8 +44,8 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/1FjxkKmjPIcNiEHiYr8QvoNCgl4yeK2OK/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1LseRMxjcrw5c1z_fzvMROxkpM9Bj7UbA/view?usp=sharing)
   * **Ćwiczenie 15** _ - Program pobierający liczbę całkowitą od użytkownika i zwracający liczbę odwróconą_
-    * [Sposób rozwiązania]()
-    * [Rezultat]()
+    * [Sposób rozwiązania](https://drive.google.com/file/d/1PqjBOqOccufokx5TAzV99j79n1Q8s0HP/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1cZQWxx8xjN2qZ5grK3q4PyNHksY4-N-5/view?usp=sharing)
   * **Ćwiczenie 16** _ - Program wyliczający ratę miesięczną za zakupiony towar_
     * [Sposób rozwiązania]()
     * [Rezultat]()
