@@ -53,8 +53,8 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/1z8_4F2plKZTd-nzOqL9HyjtomX49GAv8/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1-csxMTiRVuHCokP9sHPXvV1jxGv1QavB/view?usp=sharing) 
   * **Ćwiczenie 18** _ - Program drukujący liste uczestników kursu w Software Development Academy_
-    * [Sposób rozwiązania]()
-    * [Rezultat]()
+    * [Sposób rozwiązania](https://drive.google.com/file/d/1RimJaPW0B4z0Vm3D3_BmdBHtSefi9Ygj/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1FpYrQKKUYZJzpMXYV_i7wevOFOq0Otp3/view?usp=sharing)
   * **Ćwiczenie 19** _ - Program wyświetlający choinkę_
     * [Sposób rozwiązania]()
     * [Rezultat]()
