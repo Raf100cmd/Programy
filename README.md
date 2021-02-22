@@ -65,8 +65,8 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/17ZSROzhar_CE8L4RFd8QfTtT9OkSj4pW/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1pCLLTKP4zGofPE7GrueEcDLVfjWD-zE3/view?usp=sharing)
   * **Ćwiczenie 22** _ - Program porównujący dwa ciągi znaków wprowadzone przez użytkownika_
-    * [Sposób rozwiązania]()
-    * [Rezultat]()
+    * [Sposób rozwiązania](https://drive.google.com/file/d/1nFkjwp2WFFdJLK-10imxNGKHGObkXwRR/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1BnngaZoBRoVP-2-A973FTouMEG7JkVOs/view?usp=sharing)
   * **Ćwiczenie 23** _ - Program pobierający wycinek z wybranego ciągu znaków wprowadzonego przez użytkownika_
     * [Sposób rozwiąznia]()
     * [Rezultat]()
