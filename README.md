@@ -8,8 +8,8 @@
        * [Sposób rozwiązania](https://drive.google.com/file/d/1vQHCwEQlxLGO4O39U0e6m_AQFSi-MJuK/view?usp=sharing)
        * [Rezultat](https://drive.google.com/file/d/1Ndr9ZPMyz_NyCH13GwELeii2ePjuq9wh/view?usp=sharing)
      * **Ćwiczenie 3**
-       * [Sposób rozwiązania]()
-       * [Rezultat]()
+       * [Sposób rozwiązania](https://drive.google.com/file/d/1c0nGb2z__dIjK9y2n3rsBna2DC5hjNHE/view?usp=sharing)
+       * [Rezultat](https://drive.google.com/file/d/11ST03dlPBZ9kRIGYEwr0sfpZbXGnFuvD/view?usp=sharing)
   * **Ćwiczenie 4** _- Pobierz liczbę całkowitą i zapisz ją na ekranie_
     * [Sposób rozwiązania](https://drive.google.com/file/d/1RbXZ3r4bAkV3W6QRPxzGKFvhwN3fHoXx/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1_SuBD1wmcFmHMkYWsY4ZFtyxThoCVc2H/view?usp=sharing)
