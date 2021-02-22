@@ -35,8 +35,8 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/1KP_qY1Yya1bqFl8ebUB2rVqhbzFu6Ps_/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1R6VdVE3H7CrE32cgFsf2Q4lZM3ZqVLg4/view?usp=sharing)
   * **Ćwiczenie 12** _ - Program pobierający od użytkownika dodatnią liczbę całkowitą i wypisujący wszystkie liczby nieparzyste nie większe od tej liczby_
-    * [Sposób rozwiązania]()
-    * [Rezultat]()
+    * [Sposób rozwiązania](https://drive.google.com/file/d/15asdMzThhKW-r85nDG8CdeOJR4Ik5Bxa/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1ipx5_Nn8fIMB4JE3HbmohELvns7Z1G4K/view?usp=sharing)
   * **Ćwiczenie 13** _ - Program tworzący tablicę dla 10 elementów typu integer wypełnionych losowymi liczbami z zakresu od [-10..10]_
     * [Sposób rozwiązania]()
     * [Rezultat]()
