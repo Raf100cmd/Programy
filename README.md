@@ -59,8 +59,8 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/1l3jurfwPrSO7tS31MXE4shqsZpYvt4y9/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1FnMAa4Dv4Q8su1K69DGqdSajY2EbaZVm/view?usp=sharing)
   * **Ćwiczenie 20** _ - Program przyjmujący od użytkownika dwie liczby i dokonujący operacji matematycznych_
-    * [Sposób rozwiązania]()
-    * [Rezultat]()
+    * [Sposób rozwiązania](https://drive.google.com/file/d/12GyoHHt77mTLF-Jmrkxgu1rg0E6GIoaD/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1tmhod1cdeuoYy7syyEYedxa5RcK_d8fA/view?usp=sharing)
   * **Ćwiczenie 21** _ - Program sprawdzający czy liczba/ciąg znaków wprowadzonych przez użytkownika jest palindromem_
     * [Sposób rozwiązania]()
     * [Rezultat]()
