@@ -26,8 +26,8 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/1XZkXNTIXGMolV9168YAmdWGVPdOWfyYc/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1u5lBuQF9tgRfZOmjeMl3NGoYIbXaw7jB/view?usp=sharing)
   * **Ćwiczenie 9** _ - Program wyświetlający na ekranie tekst "To jest komunikat w pętli X", pięć razy.Gdzie X to numer wyświetlonego komunikatu_ 
-    * [Sposób rozwiązania]()
-    * [Rezultat]()
+    * [Sposób rozwiązania](https://drive.google.com/file/d/1CaoX-a2_nbS7hefwsb8jxyxBwA1bLA4o/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1kxk7X8UN1R79Zz8Pb1_Okdoj0-p8Oz0I/view?usp=sharing)
   * **Ćwiczenie 10** _ - Program wyświetlający na ekranie tekst "To jest komunit w pętli X", gdzie liczbę wyświetlanego komunikatu podaje użytkownik_
     * [Sposób rozwiązania]()
     * [Rezultat]()
