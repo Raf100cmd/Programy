@@ -41,8 +41,8 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/1sfCZh5fmSdUVSQx4FG2oYrVpgCfWJvbL/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1Whu7Y7R0OYByU1eW7fWpDtDuURat-utb/view?usp=sharing)
   * **Ćwiczenie 14** _ - Program drukujący tabliczkę mnożenia z zakresu podanego przez użytkownika_
-    * [Sposób rozwiązania]()
-    * [Rezultat]()
+    * [Sposób rozwiązania](https://drive.google.com/file/d/1FjxkKmjPIcNiEHiYr8QvoNCgl4yeK2OK/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1LseRMxjcrw5c1z_fzvMROxkpM9Bj7UbA/view?usp=sharing)
   * **Ćwiczenie 15** _ - Program pobierający liczbę całkowitą od użytkownika i zwracający liczbę odwróconą_
     * [Sposób rozwiązania]()
     * [Rezultat]()
