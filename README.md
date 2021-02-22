@@ -4,14 +4,24 @@
      * [Sposób rozwiązania](https://drive.google.com/file/d/1gj-eQ6kv5Bq86O9JFFCk59_0I88SLOGt/view?usp=sharing)
      * [Rezultat](https://drive.google.com/file/d/1nRm88ChKWzoO49aU7ND2Vu6hAGn1GOCs/view?usp=sharing)
   * **Ćwiczenie 2 oraz 3** _- Zmienne typu prostego_
-     * [Sposób rozwiązania](https://drive.google.com/file/d/1vQHCwEQlxLGO4O39U0e6m_AQFSi-MJuK/view?usp=sharing)
-     * [Rezultat](https://drive.google.com/file/d/1Ndr9ZPMyz_NyCH13GwELeii2ePjuq9wh/view?usp=sharing)
+     * **Ćwiczenie 2**
+       * [Sposób rozwiązania](https://drive.google.com/file/d/1vQHCwEQlxLGO4O39U0e6m_AQFSi-MJuK/view?usp=sharing)
+       * [Rezultat](https://drive.google.com/file/d/1Ndr9ZPMyz_NyCH13GwELeii2ePjuq9wh/view?usp=sharing)
+     * **Ćwiczenie 3**
+       * [Sposób rozwiązania]()
+       * [Rezultat]()
   * **Ćwiczenie 4** _- Pobierz liczbę całkowitą i zapisz ją na ekranie_
     * [Sposób rozwiązania](https://drive.google.com/file/d/1RbXZ3r4bAkV3W6QRPxzGKFvhwN3fHoXx/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1_SuBD1wmcFmHMkYWsY4ZFtyxThoCVc2H/view?usp=sharing)
   * **Ćwiczenie 5** _- Program, który pobiera dwie liczby całkowite, a następnie wykonuje operacje matematyczne_
     * [Sposób rozwiązania](https://drive.google.com/file/d/1T-VEq7hC2w2CEwB6O3jMMr0AToHZb3jK/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1GLLrcJtrRFZFEJv-LDLr8R0LYBaWXPi8/view?usp=sharing)
+  * **Ćwiczenie 6** _ - Program pobierający hasło od użytkownia_
+  * **Ćwiczenie 7** _ - Program pobierający imię od użytkownika_
+  * **Ćwiczenie 8** _ - Program dokonujący konwersji temperatury podanej przez użytkownika_
+  * **Ćwiczenie 9** _ - Program wyświetlający na ekranie tekst "To jest komunikat w pętli X", pięć razy.Gdzie X to numer wyświetlonego komunikatu_ 
+  * **Ćwiczenie 10** _ -Program wyświetlający na ekranie tekst "To jest komunit w pętli X", gdzie liczbę wyświetlanego komunikatu podaje użytkownik_
+  * **Ćwiczenie 11** _ - 
 * **Programy na podstawie książki: W.Rychlicki - Programowanie w języku Java** 
  
 
