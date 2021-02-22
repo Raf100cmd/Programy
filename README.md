@@ -50,8 +50,8 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/1bqM5FiOda26quT3YtvlAgJ__BYlv1DW5/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/17cpV5hX5PDiGL9kM3kkGSD1xNRfRKQvz/view?usp=sharing)
   * **Ćwiczenie 17** _ - Program pobierający od użytkownika liczbę całkowitą i sprawdzający czy liczba jest podzielna przez 3, 5 lub 3 i 5_
-    * [Sposób rozwiązania]()
-    * [Rezultat]() 
+    * [Sposób rozwiązania](https://drive.google.com/file/d/1z8_4F2plKZTd-nzOqL9HyjtomX49GAv8/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1-csxMTiRVuHCokP9sHPXvV1jxGv1QavB/view?usp=sharing) 
   * **Ćwiczenie 18** _ - Program drukujący liste uczestników kursu w Software Development Academy_
     * [Sposób rozwiązania]()
     * [Rezultat]()
