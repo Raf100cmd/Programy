@@ -77,8 +77,8 @@
     * [Rezultat](https://drive.google.com/file/d/1QdXa2RJadjtx7LqE1EDjeURbxI11lNXz/view?usp=sharing)
   * **Ćwiczenie 25** _ - Program umożliwiający zmianę rocznej stopy oprocentowania_
     * Sposób rozwiązania - przy użyciu konstruktorów
-    * [Obliczenie rocznej stopy oprocentowania i aktualnego stanu konta](https://drive.google.com/file/d/15Co3NNy9bofwWvrTeDiwr5dfxIVrr1G2/view?usp=sharing)
-    * [Stan konta ROR na przykładzie indywidualnych scenariuszy testowych](https://drive.google.com/file/d/1HeXc8wK0uFkSR1HxegAHbRB-_W7MNh14/view?usp=sharing)
+      * [Obliczenie rocznej stopy oprocentowania i aktualnego stanu konta](https://drive.google.com/file/d/15Co3NNy9bofwWvrTeDiwr5dfxIVrr1G2/view?usp=sharing)
+      * [Stan konta ROR na przykładzie indywidualnych scenariuszy testowych](https://drive.google.com/file/d/1HeXc8wK0uFkSR1HxegAHbRB-_W7MNh14/view?usp=sharing)
     * [Rezultaty scenariuszy testowych](https://drive.google.com/file/d/1tyzLvfMVd7eE_JE7Yz2yzCHJrZHRIdej/view?usp=sharing)
   
 
