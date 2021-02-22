@@ -68,8 +68,8 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/1nFkjwp2WFFdJLK-10imxNGKHGObkXwRR/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1BnngaZoBRoVP-2-A973FTouMEG7JkVOs/view?usp=sharing)
   * **Ćwiczenie 23** _ - Program pobierający wycinek z wybranego ciągu znaków wprowadzonego przez użytkownika_
-    * [Sposób rozwiąznia]()
-    * [Rezultat]()
+    * [Sposób rozwiąznia](https://drive.google.com/file/d/1Ac3GNRG8RAlR4Cd_RBUhfWZs0ifgkcJ7/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1V5DdNCjl1dzVLNcXVfkuHUJ_n_ZDWRxK/view?usp=sharing)
   * **Ćwiczenie 24** _ - Program wyświetlający datę na podstawie liczb wprowadoznych przez użytkownika_
     * [Sposób rozwiązania]()
     * [Rezultat]()
