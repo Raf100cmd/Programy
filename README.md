@@ -62,8 +62,8 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/12GyoHHt77mTLF-Jmrkxgu1rg0E6GIoaD/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1tmhod1cdeuoYy7syyEYedxa5RcK_d8fA/view?usp=sharing)
   * **Ćwiczenie 21** _ - Program sprawdzający czy liczba/ciąg znaków wprowadzonych przez użytkownika jest palindromem_
-    * [Sposób rozwiązania]()
-    * [Rezultat]()
+    * [Sposób rozwiązania](https://drive.google.com/file/d/17ZSROzhar_CE8L4RFd8QfTtT9OkSj4pW/view?usp=sharing)
+    * [Rezultat](https://drive.google.com/file/d/1pCLLTKP4zGofPE7GrueEcDLVfjWD-zE3/view?usp=sharing)
   * **Ćwiczenie 22** _ - Program porównujący dwa ciągi znaków wprowadzone przez użytkownika_
     * [Sposób rozwiązania]()
     * [Rezultat]()
