@@ -83,7 +83,7 @@
   
 
 * **Programy na podstawie książki: W.Rychlicki - Programowanie w języku Java** 
-  * **[Rozdział 1]()**
+  * **[Rozdział 1]()**  _W tym rozdziale znajdują się zadania i programy bazujące na znakach, tablicach znaków, operacji na tekstach oraz tablicach argumentów aplikacji. Ponadto, przedstawione są programy ukazujące wykorzystanie typów całkowitych, zmiennoprzecinkowych oraz logicznych_ 
 
  
 
