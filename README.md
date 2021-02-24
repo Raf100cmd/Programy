@@ -80,6 +80,7 @@
       * [Obliczenie rocznej stopy oprocentowania i aktualnego stanu konta](https://drive.google.com/file/d/15Co3NNy9bofwWvrTeDiwr5dfxIVrr1G2/view?usp=sharing)
       * [Stan konta ROR na przykładzie indywidualnych scenariuszy testowych](https://drive.google.com/file/d/1HeXc8wK0uFkSR1HxegAHbRB-_W7MNh14/view?usp=sharing)
     * [Rezultaty scenariuszy testowych](https://drive.google.com/file/d/1tyzLvfMVd7eE_JE7Yz2yzCHJrZHRIdej/view?usp=sharing)
+ * **[Link do plików z zadaniami](https://github.com/Raf100cmd/KursGit/tree/master/testowanie)**
   
 
 * **Programy na podstawie książki: W.Rychlicki - Programowanie w języku Java** 
