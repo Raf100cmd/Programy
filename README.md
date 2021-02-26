@@ -17,7 +17,7 @@
     * [Sposób rozwiązania](https://drive.google.com/file/d/1T-VEq7hC2w2CEwB6O3jMMr0AToHZb3jK/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1GLLrcJtrRFZFEJv-LDLr8R0LYBaWXPi8/view?usp=sharing)
   * **Ćwiczenie 6** _ - Program pobierający hasło od użytkownia I_
-    * [Sposób rozwiązania](https://drive.google.com/file/d/1wUP_97Dm6hXZF4_Ct37JriR5yLkf48cN/view?usp=sharing)
+    * [Sposób rozwiązania](https://drive.google.com/file/d/1lODPdIqDDL1Wjwn6Eaa1pU8mdgIr0pP_/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1LFuV4F2wkqDInVsUrBLGSxwvw8XWo35v/view?usp=sharing)
   * **Ćwiczenie 7** _ - Program pobierający imię od użytkownika_
     * [Sposób rozwiązania](https://drive.google.com/file/d/1Mcym2IHpCLUPOhyloD2BPVk9wZctQpM-/view?usp=sharing)
