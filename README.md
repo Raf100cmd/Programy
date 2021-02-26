@@ -22,7 +22,7 @@
   * **Ćwiczenie 7** _- Program pobierający imię od użytkownika_
     * [Sposób rozwiązania](https://drive.google.com/file/d/1Mcym2IHpCLUPOhyloD2BPVk9wZctQpM-/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1ES2m3ssqnEmvDxEx89qzvVlp_stRZH0B/view?usp=sharing)
-  * **Ćwiczenie 8** _ - Program dokonujący konwersji temperatury podanej przez użytkownika_
+  * **Ćwiczenie 8** _- Program dokonujący konwersji temperatury podanej przez użytkownika_
     * [Sposób rozwiązania](https://drive.google.com/file/d/1XZkXNTIXGMolV9168YAmdWGVPdOWfyYc/view?usp=sharing)
     * [Rezultat](https://drive.google.com/file/d/1u5lBuQF9tgRfZOmjeMl3NGoYIbXaw7jB/view?usp=sharing)
   * **Ćwiczenie 9** _- Program wyświetlający na ekranie tekst "To jest komunikat w pętli X", pięć razy.Gdzie X to numer wyświetlonego komunikatu_ 
